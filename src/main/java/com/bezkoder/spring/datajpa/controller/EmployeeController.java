@@ -1,7 +1,6 @@
 package com.bezkoder.spring.datajpa.controller;
 
 import com.bezkoder.spring.datajpa.model.Employee;
-import com.bezkoder.spring.datajpa.model.Leave;
 import com.bezkoder.spring.datajpa.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
